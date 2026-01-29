@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.success input {
+    border: 2px solid green;
+}
+
+.error-field input {
+    border: 2px solid red;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
